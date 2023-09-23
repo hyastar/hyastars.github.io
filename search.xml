@@ -5,8 +5,8 @@
     
     <entry>
       <title></title>
-      <link href="/2023/09/23/1/"/>
-      <url>/2023/09/23/1/</url>
+      <link href="//2023/09/23/1/"/>
+      <url>//2023/09/23/1/</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -18,8 +18,8 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2023/09/07/hello-world/"/>
-      <url>/2023/09/07/hello-world/</url>
+      <link href="//2023/09/07/hello-world/"/>
+      <url>//2023/09/07/hello-world/</url>
       
         <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>  今天是我建立博客的第三天，纯小白，只建立了Hexo框架，界面很“简洁”，没有Web前端的知识，使我要如何改动主题变得很困难，JS,CSS,PHP，这三大主力技术看来是要学的，以后就一点点的修改吧。</p>]]></content>
       
@@ -29,5 +29,62 @@
     
     
   
+  
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
   
 </search>
