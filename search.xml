@@ -5,10 +5,10 @@
     
     <entry>
       <title>第二篇文章</title>
-      <link href="//2023/09/22/1/"/>
-      <url>//2023/09/22/1/</url>
+      <link href="//2023/09/23/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+      <url>//2023/09/23/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<p>111111111111111111111</p>]]></content>
+        <content type="html"><![CDATA[<h3 id="第二篇文章"><a href="#第二篇文章" class="headerlink" title="第二篇文章"></a>第二篇文章</h3><p>今天算是那个终于构建起了Hexo博客框架（还是残次品），上一周利用Onedrive-vercel-index搭建了三个网盘，引用了一下HTML语法，发现还能在Markdown文章中播放视频，真不错，下面是一个“你的名字”。</p><center><font face="黑体" size=5>你的名字</font><center><div align="center"><video controls width="750">  <source src="https://illyasviel.cc/api/raw/?path=/动漫/电影/你的名字.mp4" type="video/mp4" /><p>  <a href="https://illyasviel.cc/api/raw/?path=/动漫/电影/你的名字.mp4">MP4</a><br>  video.<br></video></p></div></br></br></br></br></br></br></br></br><center><font face="黑体" size=5>一路生花</font><center><div align="center"><video controls width="750">  <source src="https://hydrae.top/api/raw/?path=/Video/anime%20clips/一路生花！.mp4" type="video/mp4" /><p>  <a href="https://hydrae.top/api/raw/?path=/Video/anime%20clips/一路生花！.mp4">MP4</a><br>  video.<br></video></p></div>]]></content>
       
       
       
@@ -24,25 +24,6 @@
         <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>  今天是我建立博客的第三天，纯小白，只建立了Hexo框架，界面很“简洁”，没有Web前端的知识，使我要如何改动主题变得很困难，JS,CSS,PHP，这三大主力技术看来是要学的，以后就一点点的修改吧。</p>]]></content>
       
       
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="//2016/03/30/%E5%AE%9E%E9%AA%8C/"/>
-      <url>//2016/03/30/%E5%AE%9E%E9%AA%8C/</url>
-      
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="41976dd5b248bdc4e321eedf9bf8d1ff8a8f5f19e2e4a157d13baef48cdc86fd">8857952509ef9895f61625fe2d594ef3155ec208cbaac4bb99fe7bf140b595092ff91b58e93c49fc583b88a98c572d35854129f7ef9b1374139d824765318908</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-surge">      <input class="hbe hbe-input-field hbe-input-field-surge" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-surge" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-surge" data-content="您好, 这里需要密码.">您好, 这里需要密码.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-surge" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M1200,9c0,0-305.005,0-401.001,0C733,9,675.327,4.969,598,4.969C514.994,4.969,449.336,9,400.333,9C299.666,9,0,9,0,9v43c0,0,299.666,0,400.333,0c49.002,0,114.66,3.484,197.667,3.484c77.327,0,135-3.484,200.999-3.484C894.995,52,1200,52,1200,52V9z"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 作为日记加密 </tag>
-            
-        </tags>
       
     </entry>
     
@@ -74,9 +55,9 @@
     
     
     <entry>
-      <title>留言板</title>
-      <link href="/comments/index.html"/>
-      <url>/comments/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -96,9 +77,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>留言板</title>
+      <link href="/comments/index.html"/>
+      <url>/comments/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -107,9 +88,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -129,9 +110,9 @@
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
