@@ -8,7 +8,7 @@
       <link href="//2023/09/23/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>//2023/09/23/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h3 id="第二篇文章"><a href="#第二篇文章" class="headerlink" title="第二篇文章"></a>第二篇文章</h3><p>今天算是那个终于构建起了Hexo博客框架（还是残次品），上一周利用Onedrive-vercel-index搭建了三个网盘，引用了一下HTML语法，发现还能在Markdown文章中播放视频，真不错，下面是一个“你的名字”。</p><center><font face="黑体" size=5>你的名字</font><center><div align="center"><video controls width="750">  <source src="https://illyasviel.cc/api/raw/?path=/动漫/电影/你的名字.mp4" type="video/mp4" /><p>  <a href="https://illyasviel.cc/api/raw/?path=/动漫/电影/你的名字.mp4">MP4</a><br>  video.<br></video></p></div></br></br></br></br></br></br></br></br><center><font face="黑体" size=5>一路生花</font><center><div align="center"><video controls width="750">  <source src="https://hydrae.top/api/raw/?path=/Video/anime%20clips/一路生花！.mp4" type="video/mp4" /><p>  <a href="https://hydrae.top/api/raw/?path=/Video/anime%20clips/一路生花！.mp4">MP4</a><br>  video.<br></video></p></div><div> <img src="https://shiyan2.hydrae.cn/index.php?explorer/share/file&hash=c93bjY2FoXLPSW7S4IiLoTFhLsw-7hduS4-QDU6n0WW9Y5ucHGasB738Fkbg2r8vow" alt=" "> <br> </div>]]></content>
+        <content type="html"><![CDATA[<h3 id="第二篇文章"><a href="#第二篇文章" class="headerlink" title="第二篇文章"></a>第二篇文章</h3><p>今天算是那个终于构建起了Hexo博客框架（还是残次品），上一周利用Onedrive-vercel-index搭建了三个网盘，引用了一下HTML语法，发现还能在Markdown文章中播放视频，真不错，下面是一个“你的名字”。</p><center><font face="黑体" size=5>你的名字</font><center><div align="center"><video controls width="750">  <source src="https://illyasviel.cc/api/raw/?path=/动漫/电影/你的名字.mp4" type="video/mp4" /><p>  <a href="https://illyasviel.cc/api/raw/?path=/动漫/电影/你的名字.mp4">MP4</a><br>  video.<br></video></p></div></br></br></br></br></br></br></br></br><center><font face="黑体" size=5>一路生花</font><center><div align="center"><video controls width="750">  <source src="https://hydrae.top/api/raw/?path=/Video/anime%20clips/一路生花！.mp4" type="video/mp4" /><p>  <a href="https://hydrae.top/api/raw/?path=/Video/anime%20clips/一路生花！.mp4">MP4</a><br>  video.<br></video></p></div><div> <img src="https://hydrae.top/api/raw/?path=/Photo/preview.webp" alt=" "> <br> </div>]]></content>
       
       
       
@@ -22,6 +22,19 @@
       <url>//2023/09/07/hello-world/</url>
       
         <content type="html"><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello World"></a>Hello World</h1><p>  今天是我建立博客的第三天，纯小白，只建立了Hexo框架，界面很“简洁”，没有Web前端的知识，使我要如何改动主题变得很困难，JS,CSS,PHP，这三大主力技术看来是要学的，以后就一点点的修改吧。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第二篇文章</title>
+      <link href="//2023/01/17/%E5%AE%9E%E9%AA%8C/"/>
+      <url>//2023/01/17/%E5%AE%9E%E9%AA%8C/</url>
+      
+        <content type="html"><![CDATA[<h3 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h3><p>你好</p>]]></content>
       
       
       
@@ -66,9 +79,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -88,9 +101,9 @@
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
