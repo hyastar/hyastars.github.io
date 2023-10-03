@@ -8,7 +8,7 @@
       <link href="//2023/09/23/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>//2023/09/23/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h3 id="第二篇文章"><a href="#第二篇文章" class="headerlink" title="第二篇文章"></a>第二篇文章</h3><p>今天算是那个终于构建起了Hexo博客框架（还是残次品），上一周利用Onedrive-vercel-index搭建了三个网盘，引用了一下HTML语法，发现还能在Markdown文章中播放视频，真不错，下面是一个“你的名字”。</p><center><font face="黑体" size=5>你的名字</font><center><div align="center"><video controls width="750">  <source src="https://illyasviel.cc/api/raw/?path=/动漫/电影/新海诚/你的名字.mp4" type="video/mp4" /><p>  <a href="https://illyasviel.cc/api/raw/?path=/动漫/电影/新海诚/你的名字.mp4">MP4</a><br>  video.<br></video></p></div></br></br></br></br></br><center><font face="黑体" size=5>一路生花</font><center><div class="vid-wrap" >  <video controls autoplay loop>    <source src="https://hydrae.top/api/raw/?path=/Video/anime%20clips/一路生花！.mp4" type="video/mp4">  </video></div></br></br></br><div> <img src="https://hydrae.top/api/raw/?path=/Photo/preview.webp" alt=" "> <br> </div>]]></content>
+        <content type="html"><![CDATA[<h3 id="第二篇文章"><a href="#第二篇文章" class="headerlink" title="第二篇文章"></a>第二篇文章</h3><p>今天算是那个终于构建起了Hexo博客框架（还是残次品），上一周利用Onedrive-vercel-index搭建了三个网盘，引用了一下HTML语法，发现还能在Markdown文章中播放视频，真不错，下面是一个“你的名字”。</p><center><font face="黑体" size=5>你的名字</font><center><div align="center"><video controls width="750">  <source src="https://illyasviel.cc/api/raw/?path=/动漫/电影/新海诚/你的名字.mp4" type="video/mp4" /><p>  <a href="https://illyasviel.cc/api/raw/?path=/动漫/电影/新海诚/你的名字.mp4">MP4</a><br>  video.<br></video></p></div></br></br></br></br></br></br></br></br><center><font face="黑体" size=5>一路生花</font><center><div align="center"><video controls width="750">  <source src="https://hydrae.top/api/raw/?path=/Video/anime%20clips/一路生花！.mp4" type="video/mp4" /><p>  <a href="https://hydrae.top/api/raw/?path=/Video/anime%20clips/一路生花！.mp4">MP4</a><br>  video.<br></video></p></div><div> <img src="https://hydrae.top/api/raw/?path=/Photo/preview.webp" alt=" "> <br> </div>]]></content>
       
       
       
@@ -46,11 +46,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/CSS/custom.css"/>
-      <url>/CSS/custom.css</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[/* 页脚与头图透明 */  #footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -68,11 +68,11 @@
     
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title></title>
+      <link href="/CSS/custom.css"/>
+      <url>/CSS/custom.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[/* 页脚与头图透明 */  #footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }]]></content>
       
     </entry>
     
@@ -82,17 +82,6 @@
       <title>留言板</title>
       <link href="/comments/index.html"/>
       <url>/comments/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -126,6 +115,17 @@
       <title>音乐</title>
       <link href="/music/index.html"/>
       <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
